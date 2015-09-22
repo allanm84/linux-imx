@@ -216,7 +216,7 @@
 
 &usdhc3 {
 	pinctrl-names = "default";
-	pinctrl-0 = <&pinctrl_usdhc3_1>;
+	pinctrl-0 = <&pinctrl_usdhc3_2>;
 	cd-gpios = <&gpio7 8 0>;
 	wp-gpios = <&gpio6 16 0>;
 	no-1-8-v;
