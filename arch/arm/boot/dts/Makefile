@@ -153,8 +153,10 @@ dtb-$(CONFIG_ARCH_MXC) += \
 	imx53-mba53.dtb \
 	imx53-qsb.dtb \
 	imx53-smd.dtb \
+	imx6s-tinyrex.dts \
 	imx6dl-cubox-i.dtb \
 	imx6dl-hummingboard.dtb \
+	imx6dl-tinyrex.dts \
 	imx6dl-sabreauto.dtb \
 	imx6dl-sabreauto-flexcan1.dtb \
 	imx6dl-sabreauto-ecspi.dtb \
@@ -168,6 +170,7 @@ dtb-$(CONFIG_ARCH_MXC) += \
 	imx6q-arm2.dtb \
 	imx6q-cubox-i.dtb \
 	imx6q-phytec-pbab01.dtb \
+	imx6q-tinyrex.dts \
 	imx6q-sabreauto.dtb \
 	imx6q-sabreauto-flexcan1.dtb \
 	imx6q-sabreauto-ecspi.dtb \
